@@ -1,0 +1,76 @@
+@charset "utf-8";
+.thingy1 {
+  background:#3B3B3B;
+  transition-property: background;
+  transition-duration: 0.3s;
+  transition-timing-function: ease;
+  transition-delay: 0;
+}
+.thingy1:hover{
+	background:#EA575B;
+}
+.thingy1:visited{
+	background:#EA575B;
+}
+.thingy2 {
+	background:#3B3B3B;
+  transition-property: background;
+  transition-duration: 0.3s;
+  transition-timing-function: ease;
+  transition-delay: 0;
+}
+
+.thingy2:hover{
+	background:#EA575B;
+}
+
+.thingy2:visited{
+	background:#EA575B;
+}
+.thingy3 {
+	background:#3B3B3B;
+  transition-property: background;
+  transition-duration: 0.3s;
+  transition-timing-function: ease;
+  transition-delay: 0;
+}
+
+.thingy3:hover{
+	background:#EA575B;
+}
+
+.thingy3:visited{
+	background:#EA575B;
+}
+.thingy4 {
+	background:#3B3B3B;
+  transition-property: background;
+  transition-duration: 0.3s;
+  transition-timing-function: ease;
+  transition-delay: 0;
+}
+
+.thingy4:hover{
+	background:#EA575B;
+}
+
+.thingy4:visited{
+	background:#EA575B;
+}
+
+.thingy5 {
+	background:#4B4B4B;
+	text-decoration-color: white;
+  transition-property: background;
+  transition-duration: 0.3s;
+  transition-timing-function: ease;
+  transition-delay: 0;
+}
+
+.thingy5:hover{
+	background:#EA575B;
+}
+
+.thingy5:visited{
+	background:#EA575B;
+}
